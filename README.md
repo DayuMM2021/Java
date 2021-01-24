@@ -10,16 +10,14 @@
 
 
 
-#### [后端面试点合集](https://mp.weixin.qq.com/s/gBr3UfC1HRcw4U-ZMmtRaQ) 
-
+#### [后端知识点合集](https://mp.weixin.qq.com/s/9LJ-Mn3J_G2oVOkFuwgGww) 
 
 
 
 - Java基础成神之路
 
-  - 计算机操作系统与Linux
-  - [Java基础面试16问](https://mp.weixin.qq.com/s/-xFSHf7Gz3FUcafTJUIGWQ)
-  - [52图初探Linux通用知识](https://mp.weixin.qq.com/s/dP8AJbvGgvYIXDy3zeXCRg)
+  - [面试官：Java为什么只有值传递？](https://mp.weixin.qq.com/s/zEN1CTUBeol9hFkrX21KGw)
+  - [测试一下你是否真的了解Java中的流](https://mp.weixin.qq.com/s/dGR95v5TK-T9pMQMT20TOQ)
 
 
 - Java集合成神之路
@@ -30,7 +28,13 @@
   - [TreeMap、LinkedHashMap（含LRU）就这么简单【源码剖析】](https://mp.weixin.qq.com/s/Za15uL3SGsdSWuy1WJdFfA)
   - [ConcurrentHashMap、IdentityHashMap以及弱键WeakHashMap【源码剖析】](https://mp.weixin.qq.com/s/cJvl-8W_QGNPovGShx32OA)
   - [这一篇就能把Set集合说明白了](https://mp.weixin.qq.com/s/KU_YtFuY-271Aev98qn8eg)
-  
+ 
+ 
+- 数据结构和算法成神之路
+
+  - [必学十大经典排序算法，看这篇就够了(附完整代码/动图/优质文章)](https://mp.weixin.qq.com/s/A7VFcMcp9VgtzkUyZMn_ug)
+ 
+ 
   
 - Java多线程成神之路
 
@@ -41,8 +45,28 @@
   - [一篇搞懂Synchronized底层实现](https://mp.weixin.qq.com/s/WCZ5eWo--fLzGWUdmy3Qlw)
   - [学习volatile这一篇就够了](https://mp.weixin.qq.com/s/tVjnd4OjZL1eZkHZb-SGnQ)
   - [阿里这样的公司，为什么总是用final关键字来考验求职者](https://mp.weixin.qq.com/s/Y3k4knLzFttdUHx29UNs4Q)
+  - [八仙过海，四种同步（感谢你，苏小落）](https://mp.weixin.qq.com/s/eEEGesn-VKeSLtEKR-1IOA)
   
-  - Redis成神之路
+  
+- MySQL数据库成神之路
+
+  - [我以为我对MySql很了解，直到我面试了字节跳动](https://mp.weixin.qq.com/s/oBddiqEgR2swwV8ODWdAzQ)
+  
+  
+- 网络编程成神之路
+
+  - [【网络篇】教你搞定计算机网络（一）](https://mp.weixin.qq.com/s/eyrElwiGXuv8qPSEove0Qg)
+  - [【网络篇】教你搞定计算机网络（二）](https://mp.weixin.qq.com/s/FjuSlHIVjPtQoZjJX-C0tw) 
+  
+  
+- Spring成神之路
+
+  - [Spring IOC知识点一网打尽](https://mp.weixin.qq.com/s/h-y1rtudMfA3K5xnZgrGdw)
+  - [Spring AOP原来这么简单啊](https://mp.weixin.qq.com/s/h5vpqSle-kec2UZPP7XReg) 
+  - [国庆假期还能这样通知我？](https://mp.weixin.qq.com/s/7Y5tmduIMLIqvQy_fIa0og) 
+  
+  
+- Redis缓存成神之路
 
   - [Redis安装和配置（Windows和Linux）](https://mp.weixin.qq.com/s/xT5FB1oaz9rUSlwBHhij3Q)
   - [Redis原来不止五种类型啊（含常用命令）](https://mp.weixin.qq.com/s/YCm9-cCrPF-iBqMxFySd6w)
@@ -53,6 +77,43 @@
   - [震惊！各大互联网公司中的Redis服务器竟...（主从复制）](https://mp.weixin.qq.com/s/EDt3FO2yU1cnHGsfJ-EvZg)
   - [我们一起牵手学哨兵撒？](https://mp.weixin.qq.com/s/FdKmkYBiqzsX9L73JZjRzA)
   - [你了解Redis集群中的秘密吗？](https://mp.weixin.qq.com/s/6dcIbxz458pIx5n_kcMbHw)
+  
+  
+- RocketMQ消息队列成神之路
+
+  - [先来了解RocketMQ](-)
+
+  
+- ElasticSearch搜索引擎成神之路
+
+  - [一篇搞懂ElasticSearch（附学习脑图）](https://mp.weixin.qq.com/s/CHE1x8gjqi2dpba9-erTgg)
+  
+  
+- JVM虚拟机成神之路
+
+ - [面试官问我JVM类加载，我笑了](https://mp.weixin.qq.com/s/mupnNzMOXTSexLLvquLGjQ)
+ - [小白读了这篇JVM，直呼真香，淦！（长篇干货预警）](https://mp.weixin.qq.com/s/SKMiiNgrOxgb08XaZ8OhPg)
+  
+    
+    
+- 面试
+
+ - [你读完这一篇还不会学Java过来打我！](https://mp.weixin.qq.com/s/QDxzkx81hzqxaT9YKiukDQ)
+  
+  
+  
+  
+  
+  #### [大数据知识点合集](https://mp.weixin.qq.com/s/9LJ-Mn3J_G2oVOkFuwgGww) 
+  
+  
+    
+- Zookeeper分布式协调服务成神之路
+
+ - [都0202年了，你确定还不学一波Zookeeper？](https://mp.weixin.qq.com/s/t3yWNx5L3sl08LaIvKBfig)
+  
+  
+  
   
   
   

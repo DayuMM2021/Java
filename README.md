@@ -15,14 +15,14 @@
 
 
 
-- Java基础核心串讲
+- Java基础成神之路
 
   - 计算机操作系统与Linux
   - [Java基础面试16问](https://mp.weixin.qq.com/s/-xFSHf7Gz3FUcafTJUIGWQ)
   - [52图初探Linux通用知识](https://mp.weixin.qq.com/s/dP8AJbvGgvYIXDy3zeXCRg)
 
 
-- 集合框架
+- Java集合成神之路
 
   - [湿兄红着眼熬夜肝了篇集合ArrayList（附源码分析）](https://mp.weixin.qq.com/s/G8a9HSLC-VStpLjBzinRmA)
   - [湿兄这一篇LinkedList也是红着眼（附源码分析）](https://mp.weixin.qq.com/s/9VDxaVfBOBZwfophwMcWjg)
@@ -32,7 +32,7 @@
   - [这一篇就能把Set集合说明白了](https://mp.weixin.qq.com/s/KU_YtFuY-271Aev98qn8eg)
   
   
-- Java多线程并发
+- Java多线程成神之路
 
   - [学习并发先看这一介绍篇](https://mp.weixin.qq.com/s/7avX8CBbxYaW2IjT_POGRg)
   - [五分钟带你入门线程](https://mp.weixin.qq.com/s/mJDfXk_hKeWuHqgQI4HXSQ)
@@ -41,6 +41,22 @@
   - [一篇搞懂Synchronized底层实现](https://mp.weixin.qq.com/s/WCZ5eWo--fLzGWUdmy3Qlw)
   - [学习volatile这一篇就够了](https://mp.weixin.qq.com/s/tVjnd4OjZL1eZkHZb-SGnQ)
   - [阿里这样的公司，为什么总是用final关键字来考验求职者](https://mp.weixin.qq.com/s/Y3k4knLzFttdUHx29UNs4Q)
+  
+  - Redis成神之路
+
+  - [Redis安装和配置（Windows和Linux）](https://mp.weixin.qq.com/s/xT5FB1oaz9rUSlwBHhij3Q)
+  - [Redis原来不止五种类型啊（含常用命令）](https://mp.weixin.qq.com/s/YCm9-cCrPF-iBqMxFySd6w)
+  - [Redis内存模型原来是这样的啊！](https://mp.weixin.qq.com/s/aJ360LMjE8qH24qEz224XQ)
+  - [Redis对象类型编码（补充内存篇）](https://mp.weixin.qq.com/s/6K7khLS3Z4geC1gAXoNOIw)
+  - [深入学习Redis持久化（RDB）](https://mp.weixin.qq.com/s/kvB5sIXMMVKLuZNMZYG7og)
+  - [深入学习Redis持久化（AOF）](https://mp.weixin.qq.com/s/GMgNfJZcdYVKlGfIibUHrg)
+  - [震惊！各大互联网公司中的Redis服务器竟...（主从复制）](https://mp.weixin.qq.com/s/EDt3FO2yU1cnHGsfJ-EvZg)
+  - [我们一起牵手学哨兵撒？](https://mp.weixin.qq.com/s/FdKmkYBiqzsX9L73JZjRzA)
+  - [你了解Redis集群中的秘密吗？](https://mp.weixin.qq.com/s/6dcIbxz458pIx5n_kcMbHw)
+  
+  
+  
+  
   
   
   

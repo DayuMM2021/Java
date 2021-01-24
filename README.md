@@ -5,8 +5,7 @@
 我会从下图中的知识点去写这个系列，很多细节的点，可能想得不是很完善，大家可以去[【公众号】](https://mp.weixin.qq.com/s/9LJ-Mn3J_G2oVOkFuwgGww)获取或者加我[【微信】](#微信)提意见(别忘记**Star**哟)。
 
 
-
-原创文章每周最少两篇，公众号首发文章，[【B站】](# B站)首发视频，比博客早一到两篇。
+原创文章公众号首发，[【B站】](# B站)首发视频。
 
 
 
@@ -19,6 +18,13 @@
   - [面试官：Java为什么只有值传递？](https://mp.weixin.qq.com/s/zEN1CTUBeol9hFkrX21KGw)
   - [测试一下你是否真的了解Java中的流](https://mp.weixin.qq.com/s/dGR95v5TK-T9pMQMT20TOQ)
 
+  
+  
+- 网络编程成神之路
+
+  - [【网络篇】教你搞定计算机网络（一）](https://mp.weixin.qq.com/s/eyrElwiGXuv8qPSEove0Qg)
+  - [【网络篇】教你搞定计算机网络（二）](https://mp.weixin.qq.com/s/FjuSlHIVjPtQoZjJX-C0tw) 
+  
 
 
 - Java集合成神之路
@@ -56,14 +62,12 @@
   - [我以为我对MySql很了解，直到我面试了字节跳动](https://mp.weixin.qq.com/s/oBddiqEgR2swwV8ODWdAzQ)
   
   
-  
-- 网络编程成神之路
+- MongoDB数据库成神之路
 
-  - [【网络篇】教你搞定计算机网络（一）](https://mp.weixin.qq.com/s/eyrElwiGXuv8qPSEove0Qg)
-  - [【网络篇】教你搞定计算机网络（二）](https://mp.weixin.qq.com/s/FjuSlHIVjPtQoZjJX-C0tw) 
-  
-  
-  
+  - [我以为我对MySql很了解，直到我面试了字节跳动](https://mp.weixin.qq.com/s/oBddiqEgR2swwV8ODWdAzQ)
+ 
+
+    
 - Spring成神之路
 
   - [Spring IOC知识点一网打尽](https://mp.weixin.qq.com/s/h-y1rtudMfA3K5xnZgrGdw)
@@ -71,7 +75,26 @@
   - [国庆假期还能这样通知我？](https://mp.weixin.qq.com/s/7Y5tmduIMLIqvQy_fIa0og) 
   
   
+- Mybatis成神之路
+
+  - [Spring IOC知识点一网打尽](https://mp.weixin.qq.com/s/h-y1rtudMfA3K5xnZgrGdw)
+  - [Spring AOP原来这么简单啊](https://mp.weixin.qq.com/s/h5vpqSle-kec2UZPP7XReg) 
+  - [国庆假期还能这样通知我？](https://mp.weixin.qq.com/s/7Y5tmduIMLIqvQy_fIa0og) 
   
+  
+  
+- Tomcat服务器成神之路
+
+  - [Tomcat服务器](-) 
+   
+   
+  
+- ElasticSearch搜索引擎成神之路
+
+   - [一篇搞懂ElasticSearch（附学习脑图）](https://mp.weixin.qq.com/s/CHE1x8gjqi2dpba9-erTgg)
+  
+  
+    
 - Redis缓存成神之路
 
   - [Redis安装和配置（Windows和Linux）](https://mp.weixin.qq.com/s/xT5FB1oaz9rUSlwBHhij3Q)
@@ -85,16 +108,23 @@
   - [你了解Redis集群中的秘密吗？](https://mp.weixin.qq.com/s/6dcIbxz458pIx5n_kcMbHw)
   
   
+
   
 - RocketMQ消息队列成神之路
 
   - [先来了解RocketMQ](-)
 
 
-  
-- ElasticSearch搜索引擎成神之路
 
-   - [一篇搞懂ElasticSearch（附学习脑图）](https://mp.weixin.qq.com/s/CHE1x8gjqi2dpba9-erTgg)
+- RPC框架Dubbo成神之路
+
+   - [Dubbo基础](https://mp.weixin.qq.com/s/FPbu8rFOHyTGROIV8XJeTA)
+   - [Dubbo面试题](https://mp.weixin.qq.com/s/FwL6qArqYc2ENymXk1eZFQ)
+  
+  
+- Docker容器成神之路
+
+   - [Dubbo基础](https://mp.weixin.qq.com/s/FPbu8rFOHyTGROIV8XJeTA)
   
   
   
@@ -103,7 +133,20 @@
   - [面试官问我JVM类加载，我笑了](https://mp.weixin.qq.com/s/mupnNzMOXTSexLLvquLGjQ)
   - [小白读了这篇JVM，直呼真香，淦！（长篇干货预警）](https://mp.weixin.qq.com/s/SKMiiNgrOxgb08XaZ8OhPg)
   
-    
+  
+- 设计模式成神之路
+
+  - [设计模式到底是什么](-)
+  - [单例模式](-)
+  
+  
+   
+- 代码管理工具成神之路
+
+  - [Git](-)
+  - [Maven](-) 
+  
+  
     
 - 面试
 
@@ -116,20 +159,67 @@
 #### [大数据知识点合集](https://mp.weixin.qq.com/s/9LJ-Mn3J_G2oVOkFuwgGww) 
   
   
-    
-- Zookeeper分布式协调服务成神之路
+  
+- Linux成神之路
+
+  - [Centos](-)
+  - [Linux扫盲](-)
+  - [巧记Linux命令](-)
+  
+  
+- Hadoop大数据处理框架成神之路
+
+  - [入门Hadoop](-)
+  - [HDFS](-)
+  - [MapReduce](-)
+  - [Yarn](-)
+  - [入门Hive](-) 
+  - [入门HBase](-)  
+ 
+   
+  
+- Storm大数据实时处理框架成神之路
+
+  - [入门Storm](-)
+  
+
+- Spark大数据处理框架成神之路
+
+  - [Scala语言的学习](-)
+  
+  - [Spark入门](-)
+  - [SparkRDD算子的使用](-)
+  - [SparkStreaming实时数据的流处理](-)
+  - [SparkSql结构化数据的处理](-)
+  - [GraphX图计算](-)
+  - [MLlib机器学习算法](-)
+  
+  
+- Flink大数据处理框架成神之路
+
+  - [Flink框架学习](-)
+  
+  
+  
+- 大数据辅助工具成神之路
 
   - [都0202年了，你确定还不学一波Zookeeper？](https://mp.weixin.qq.com/s/t3yWNx5L3sl08LaIvKBfig)
+  - [任务调度器Oozie](-)  
+  - [任务调度器Azkaban](-)   
+  - [和Zookeeper的区别](-)   
+  - [日志收集篇之Flume](-)  
+  - [pig框架](-)  
   
   
+- Kafka消息队列成神之路
+
+  - [入门Kafka](-)  
   
   
-  
-  
-  
-  
-  
-  
+- 机器学习成神之路
+
+  - [入门Kafka](-)  
+    
   
   
   

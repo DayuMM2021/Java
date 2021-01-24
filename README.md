@@ -24,9 +24,20 @@
 
 - 集合框架
 
-  - [HashMap](https://mp.weixin.qq.com/s/0Gf2DzuzgEx0i3mHVvhKNQ)
-  - [面试官：HashMap 为什么线程不安全？](https://mp.weixin.qq.com/s/VtIpj-uuxFj5Bf6TmTJMTw)
-
-
-
+  - [湿兄红着眼熬夜肝了篇集合ArrayList（附源码分析）](https://mp.weixin.qq.com/s/G8a9HSLC-VStpLjBzinRmA)
+  - [湿兄这一篇LinkedList也是红着眼（附源码分析）](https://mp.weixin.qq.com/s/9VDxaVfBOBZwfophwMcWjg)
+  - [Java中的Map集合、散列表、红黑树介绍](https://mp.weixin.qq.com/s/feurEh9sqwGtTGJwXRnl2A)
+  - [TreeMap、LinkedHashMap（含LRU）就这么简单【源码剖析】](https://mp.weixin.qq.com/s/Za15uL3SGsdSWuy1WJdFfA)
+  - [ConcurrentHashMap、IdentityHashMap以及弱键WeakHashMap【源码剖析】](https://mp.weixin.qq.com/s/cJvl-8W_QGNPovGShx32OA)
+  - [这一篇就能把Set集合说明白了](https://mp.weixin.qq.com/s/KU_YtFuY-271Aev98qn8eg)
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 

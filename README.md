@@ -32,7 +32,15 @@
   - [这一篇就能把Set集合说明白了](https://mp.weixin.qq.com/s/KU_YtFuY-271Aev98qn8eg)
   
   
-  
+- Java多线程并发
+
+  - [学习并发先看这一介绍篇](https://mp.weixin.qq.com/s/7avX8CBbxYaW2IjT_POGRg)
+  - [五分钟带你入门线程](https://mp.weixin.qq.com/s/mJDfXk_hKeWuHqgQI4HXSQ)
+  - [Thread类和Runnable接口的源码剖析](https://mp.weixin.qq.com/s/eI7Tux95SgUbodpdOiIN-g)
+  - [这一篇我们来了解Synchronized、Volatile、Final关键字](https://mp.weixin.qq.com/s/3W4OxuMImMnTmtNWZqoTBQ)
+  - [一篇搞懂Synchronized底层实现](https://mp.weixin.qq.com/s/WCZ5eWo--fLzGWUdmy3Qlw)
+  - [学习volatile这一篇就够了](https://mp.weixin.qq.com/s/tVjnd4OjZL1eZkHZb-SGnQ)
+  - [阿里这样的公司，为什么总是用final关键字来考验求职者](https://mp.weixin.qq.com/s/Y3k4knLzFttdUHx29UNs4Q)
   
   
   

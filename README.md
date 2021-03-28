@@ -11,12 +11,22 @@
 
 #### [后端知识点合集](https://mp.weixin.qq.com/s/9LJ-Mn3J_G2oVOkFuwgGww) 
 
+  
+   
+- 代码管理工具成神之路
+
+  - [Git](-)
+  - [Maven](-) 
+  - [idea注册又过期了！？我把永久注册码搞来了](https://mp.weixin.qq.com/s/vuBYqELL0axYaYghduxWJQ)
+
+
 
 
 - Java基础成神之路
 
   - [面试官：Java为什么只有值传递？](https://mp.weixin.qq.com/s/zEN1CTUBeol9hFkrX21KGw)
   - [测试一下你是否真的了解Java中的流](https://mp.weixin.qq.com/s/dGR95v5TK-T9pMQMT20TOQ)
+  - [面试官问我：你确定用了BigDecimal后，计算结果一定精确？](https://mp.weixin.qq.com/s/FEfmT4BkDqHXgTLvScvkSA)
 
   
   
@@ -37,7 +47,7 @@
   - [这一篇就能把Set集合说明白了](https://mp.weixin.qq.com/s/KU_YtFuY-271Aev98qn8eg)
  
  
- 
+
 - 数据结构和算法成神之路
 
   - [必学十大经典排序算法，看这篇就够了(附完整代码/动图/优质文章)](https://mp.weixin.qq.com/s/A7VFcMcp9VgtzkUyZMn_ug)
@@ -112,7 +122,12 @@
   
 - RocketMQ消息队列成神之路
 
-  - [先来了解RocketMQ](-)
+  - [消息队列入门](https://mp.weixin.qq.com/s/I29YlgxU3EuK3lY1xMGrVQ)
+  - [搞懂什么是RocketMQ](https://mp.weixin.qq.com/s/Ae1bLGs4X8355Y2ZyTHkGA)
+  - [我怎么不知道RocketMQ生产者有这么多用法？（图片在末尾，不谢）](https://mp.weixin.qq.com/s/hg04Q-jkopxbqOsX7sVhgA)
+  - [面试官问了我一个消费者，我差点晕过去](https://mp.weixin.qq.com/s/EXwjqMjebJqPPXAP2UL4Fg)
+  - [NameServer、Zookeeper，傻傻分不清楚](https://mp.weixin.qq.com/s/nDBbOyfo9I1o3LHgYg2XgQ)
+  - [Broker心脏篇]
 
 
 
@@ -132,6 +147,8 @@
 
   - [面试官问我JVM类加载，我笑了](https://mp.weixin.qq.com/s/mupnNzMOXTSexLLvquLGjQ)
   - [小白读了这篇JVM，直呼真香，淦！（长篇干货预警）](https://mp.weixin.qq.com/s/SKMiiNgrOxgb08XaZ8OhPg)
+  - [面试官问我平时写的Bug的存储位置（逃逸分析、标量替换、锁消除）](https://mp.weixin.qq.com/s/Hr2JSEZ9HH5TTowjXlbaVQ)
+  - [JVM如何判断哪些对象可以回收？](https://mp.weixin.qq.com/s/wc81VBW57P9mK5DT7kZjBw)
   
   
 - 设计模式成神之路
@@ -140,17 +157,20 @@
   - [单例模式](-)
   
   
-   
-- 代码管理工具成神之路
-
-  - [Git](-)
-  - [Maven](-) 
-  
-  
     
 - 面试
 
   - [你读完这一篇还不会学Java过来打我！](https://mp.weixin.qq.com/s/QDxzkx81hzqxaT9YKiukDQ)
+  
+ 
+ 
+- 番外篇
+
+  - [加勒万河谷冲突现场视频公开](https://mp.weixin.qq.com/s/F30wuyTEXW2sefWsX1NHXw)
+  - [日常杂记](hhttps://mp.weixin.qq.com/s/FGVRUK1JI4zzR-5LZXC6Hg)
+  - [你读完这一篇还不会学Java过来打我！](https://mp.weixin.qq.com/s/QDxzkx81hzqxaT9YKiukDQ)
+  - [达叔，好想一直被你骗下去](https://mp.weixin.qq.com/s/CY1yWjE5BSHgmi27frhXVA)
+  - [我人傻了](hhttps://mp.weixin.qq.com/s/Tg3q6Cp6eWILuk-_7-gw4w)
   
   
   

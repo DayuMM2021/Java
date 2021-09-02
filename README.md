@@ -15,7 +15,9 @@
    
 - 代码管理工具成神之路
 
-  - [Git](-)
+  - [Git提交代码](https://mp.weixin.qq.com/s/xbmWk6kHHiIAB_1Wa3ZnBQ)
+  
+  - [Git命令集合](https://mp.weixin.qq.com/s/ffCuV58bMwZ8HIPfAs_bUQ)
   
   - [Maven](-) 
   
@@ -44,17 +46,17 @@
 
 - Java集合成神之路
 
-  - [湿兄红着眼熬夜肝了篇集合ArrayList（附源码分析）](https://mp.weixin.qq.com/s/G8a9HSLC-VStpLjBzinRmA)
+  - [ArrayList（附源码分析）](https://mp.weixin.qq.com/s/G8a9HSLC-VStpLjBzinRmA)
   
-  - [湿兄这一篇LinkedList也是红着眼（附源码分析）](https://mp.weixin.qq.com/s/9VDxaVfBOBZwfophwMcWjg)
+  - [LinkedList（附源码分析）](https://mp.weixin.qq.com/s/9VDxaVfBOBZwfophwMcWjg)
   
   - [Java中的Map集合、散列表、红黑树介绍](https://mp.weixin.qq.com/s/feurEh9sqwGtTGJwXRnl2A)
   
-  - [TreeMap、LinkedHashMap（含LRU）就这么简单【源码剖析】](https://mp.weixin.qq.com/s/Za15uL3SGsdSWuy1WJdFfA)
+  - [TreeMap、LinkedHashMap（含LRU）【源码剖析】](https://mp.weixin.qq.com/s/Za15uL3SGsdSWuy1WJdFfA)
   
   - [ConcurrentHashMap、IdentityHashMap以及弱键WeakHashMap【源码剖析】](https://mp.weixin.qq.com/s/cJvl-8W_QGNPovGShx32OA)
   
-  - [这一篇就能把Set集合说明白了](https://mp.weixin.qq.com/s/KU_YtFuY-271Aev98qn8eg)
+  - [Set集合](https://mp.weixin.qq.com/s/KU_YtFuY-271Aev98qn8eg)
  
  
 
@@ -74,7 +76,7 @@
   
   - [这一篇我们来了解Synchronized、Volatile、Final关键字](https://mp.weixin.qq.com/s/3W4OxuMImMnTmtNWZqoTBQ)
   
-  - [一篇搞懂Synchronized底层实现](https://mp.weixin.qq.com/s/WCZ5eWo--fLzGWUdmy3Qlw)
+  - [Synchronized底层实现](https://mp.weixin.qq.com/s/WCZ5eWo--fLzGWUdmy3Qlw)
   
   - [学习volatile这一篇就够了](https://mp.weixin.qq.com/s/tVjnd4OjZL1eZkHZb-SGnQ)
   
@@ -91,27 +93,24 @@
   
 - MongoDB数据库成神之路
 
-  - [我以为我对MySql很了解，直到我面试了字节跳动](https://mp.weixin.qq.com/s/oBddiqEgR2swwV8ODWdAzQ)
+  - [Mongodb入门](-)
  
 
     
 - Spring成神之路
 
-  - [Spring IOC知识点一网打尽](https://mp.weixin.qq.com/s/h-y1rtudMfA3K5xnZgrGdw)
+  - [Spring IOC控制反转](https://mp.weixin.qq.com/s/h-y1rtudMfA3K5xnZgrGdw)
   
-  - [Spring AOP原来这么简单啊](https://mp.weixin.qq.com/s/h5vpqSle-kec2UZPP7XReg)
+  - [Spring AOP切面编程](https://mp.weixin.qq.com/s/h5vpqSle-kec2UZPP7XReg)
    
   - [国庆假期还能这样通知我？](https://mp.weixin.qq.com/s/7Y5tmduIMLIqvQy_fIa0og) 
   
   
 - Mybatis成神之路
 
-  - [Spring IOC知识点一网打尽](https://mp.weixin.qq.com/s/h-y1rtudMfA3K5xnZgrGdw)
+  - [Mybatis入门](-)
   
-  - [Spring AOP原来这么简单啊](https://mp.weixin.qq.com/s/h5vpqSle-kec2UZPP7XReg) 
-  
-  - [国庆假期还能这样通知我？](https://mp.weixin.qq.com/s/7Y5tmduIMLIqvQy_fIa0og) 
-  
+
   
   
 - Tomcat服务器成神之路
@@ -130,21 +129,25 @@
 
   - [Redis安装和配置（Windows和Linux）](https://mp.weixin.qq.com/s/xT5FB1oaz9rUSlwBHhij3Q)
   
-  - [Redis原来不止五种类型啊（含常用命令）](https://mp.weixin.qq.com/s/YCm9-cCrPF-iBqMxFySd6w)
+  - [Redis多种数据类型](https://mp.weixin.qq.com/s/YCm9-cCrPF-iBqMxFySd6w)
   
-  - [Redis内存模型原来是这样的啊！](https://mp.weixin.qq.com/s/aJ360LMjE8qH24qEz224XQ)
+  - [Redis内存模型](https://mp.weixin.qq.com/s/aJ360LMjE8qH24qEz224XQ)
   
   - [Redis对象类型编码（补充内存篇）](https://mp.weixin.qq.com/s/6K7khLS3Z4geC1gAXoNOIw)
   
-  - [深入学习Redis持久化（RDB）](https://mp.weixin.qq.com/s/kvB5sIXMMVKLuZNMZYG7og)
+  - [Redis持久化（RDB）](https://mp.weixin.qq.com/s/kvB5sIXMMVKLuZNMZYG7og)
   
-  - [深入学习Redis持久化（AOF）](https://mp.weixin.qq.com/s/GMgNfJZcdYVKlGfIibUHrg)
+  - [Redis持久化（AOF）](https://mp.weixin.qq.com/s/GMgNfJZcdYVKlGfIibUHrg)
   
-  - [震惊！各大互联网公司中的Redis服务器竟...（主从复制）](https://mp.weixin.qq.com/s/EDt3FO2yU1cnHGsfJ-EvZg)
+  - [redis中的主从复制](https://mp.weixin.qq.com/s/EDt3FO2yU1cnHGsfJ-EvZg)
   
-  - [我们一起牵手学哨兵撒？](https://mp.weixin.qq.com/s/FdKmkYBiqzsX9L73JZjRzA)
+  - [redis的哨兵机制](https://mp.weixin.qq.com/s/FdKmkYBiqzsX9L73JZjRzA)
   
-  - [你了解Redis集群中的秘密吗？](https://mp.weixin.qq.com/s/6dcIbxz458pIx5n_kcMbHw)
+  - [redis集群](https://mp.weixin.qq.com/s/6dcIbxz458pIx5n_kcMbHw)
+  
+  - [Redis：缓存雪崩、缓存穿透、缓存击穿](https://mp.weixin.qq.com/s/hFjwB39FJimDDNkPyZ68xQ)
+  
+  - [分布式事务](https://mp.weixin.qq.com/s/eGxTqiy4C_cd6dp1xt4AFA)
   
   
 
@@ -167,26 +170,34 @@
 
 - RPC框架Dubbo成神之路
 
-   - [Dubbo基础](https://mp.weixin.qq.com/s/FPbu8rFOHyTGROIV8XJeTA)
+   - [Dubbo起飞](https://mp.weixin.qq.com/s/vdvSwdtpUB-l3rKx39YjHQ)
    
-   - [Dubbo面试题](https://mp.weixin.qq.com/s/FwL6qArqYc2ENymXk1eZFQ)
+   - [Dubbo服务暴露](https://mp.weixin.qq.com/s/YHFp58F1gbrWvZ91iX_WcA)
   
   
 - Docker容器成神之路
 
-   - [Dubbo基础](https://mp.weixin.qq.com/s/FPbu8rFOHyTGROIV8XJeTA)
+   - [Docker入门](-)
   
   
   
 - JVM虚拟机成神之路
 
-  - [面试官问我JVM类加载，我笑了](https://mp.weixin.qq.com/s/mupnNzMOXTSexLLvquLGjQ)
+  - [JVM类加载过程](https://mp.weixin.qq.com/s/mupnNzMOXTSexLLvquLGjQ)
   
   - [小白读了这篇JVM，直呼真香，淦！（长篇干货预警）](https://mp.weixin.qq.com/s/SKMiiNgrOxgb08XaZ8OhPg)
   
   - [面试官问我平时写的Bug的存储位置（逃逸分析、标量替换、锁消除）](https://mp.weixin.qq.com/s/Hr2JSEZ9HH5TTowjXlbaVQ)
   
   - [JVM如何判断哪些对象可以回收？](https://mp.weixin.qq.com/s/wc81VBW57P9mK5DT7kZjBw)
+  
+  - [HotSpot、G1垃圾回收算法和垃圾收集器](https://mp.weixin.qq.com/s/HXdWgO_u4WSzs7PqKLtTTQ)
+  
+  - [双亲委派、如何破坏双亲委派](https://mp.weixin.qq.com/s/k0_K627ENyHeE92vW5HIiw)
+  
+  - [分析new对象的过程](https://mp.weixin.qq.com/s/nrb-g359DSgAPne8sxFPsQ)
+  
+  - [面试官问我：你确定JVM堆内存是共享的？](https://mp.weixin.qq.com/s/zbZrEbkPLtKuha5zq3tRcQ)
   
   
 - 设计模式成神之路
@@ -214,6 +225,8 @@
   - [达叔，好想一直被你骗下去](https://mp.weixin.qq.com/s/CY1yWjE5BSHgmi27frhXVA)
   
   - [我人傻了](https://mp.weixin.qq.com/s/Tg3q6Cp6eWILuk-_7-gw4w)
+  
+  - [最单纯的致敬-90后追梦人](https://mp.weixin.qq.com/s/tTBee7s7yjde-y38qT7Acw)
   
   
   
@@ -278,7 +291,7 @@
   
 - 大数据辅助工具成神之路
 
-  - [都0202年了，你确定还不学一波Zookeeper？](https://mp.weixin.qq.com/s/t3yWNx5L3sl08LaIvKBfig)
+  - [了解Zookeeper](https://mp.weixin.qq.com/s/t3yWNx5L3sl08LaIvKBfig)
   
   - [任务调度器Oozie](-)  
   
@@ -298,7 +311,9 @@
   
 - 机器学习成神之路
 
-  - [入门Kafka](-)  
+  - [朴素贝叶斯分类](-)  
+  
+  - [决策树](-)
     
   
   

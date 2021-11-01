@@ -166,6 +166,16 @@
   
   - [Broker心脏篇]（）
 
+  - [重复消费 顺序消费 分布式事务](https://mp.weixin.qq.com/s/1mvC5EhL-QTj56-fZhXWlQ)
+
+  - [通过这三个文件彻底搞懂RocketMQ的存储原理](https://mp.weixin.qq.com/s/hQ4-R0zM6WP8eb3wmwKS3Q)
+
+  - [如何保证消息不丢失](https://mp.weixin.qq.com/s/5C898scm8zgSJCXNdRQRsQ)
+
+  - [消息堆积问题的处理](https://mp.weixin.qq.com/s/5C898scm8zgSJCXNdRQRsQ)
+
+  - [你必须知道的消息推拉机制](https://mp.weixin.qq.com/s/R404jL45InVcf_3bWefxxw)
+
 
 
 - RPC框架Dubbo成神之路

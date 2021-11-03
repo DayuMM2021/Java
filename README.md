@@ -11,6 +11,15 @@
 
 #### [后端知识点合集](https://mp.weixin.qq.com/s/9LJ-Mn3J_G2oVOkFuwgGww) 
 
+
+  
+    
+- 学习路线
+
+  - [你读完这一篇还不会学Java过来打我！](https://mp.weixin.qq.com/s/QDxzkx81hzqxaT9YKiukDQ)
+
+  - [请收下这份汇总全网的Java视频资料](https://mp.weixin.qq.com/s/Lccr2F6XRO5VUPJZVnL18A)
+
   
    
 - 代码管理工具成神之路
@@ -22,7 +31,6 @@
   - [Maven](-) 
   
   - [idea注册又过期了！？我把永久注册码搞来了](https://mp.weixin.qq.com/s/vuBYqELL0axYaYghduxWJQ)
-
 
 
 
@@ -89,7 +97,10 @@
 - MySQL数据库成神之路
 
   - [我以为我对MySql很了解，直到我面试了字节跳动](https://mp.weixin.qq.com/s/oBddiqEgR2swwV8ODWdAzQ)
-  
+
+  - [表姐告诉我学习数据库这一篇就差不离了](https://mp.weixin.qq.com/s/1kXnYEKiRlm-Z4NrZq_Prw)
+
+
   
 - MongoDB数据库成神之路
 
@@ -104,6 +115,13 @@
   - [Spring AOP切面编程](https://mp.weixin.qq.com/s/h5vpqSle-kec2UZPP7XReg)
    
   - [国庆假期还能这样通知我？](https://mp.weixin.qq.com/s/7Y5tmduIMLIqvQy_fIa0og) 
+
+  - [吐血给女朋友讲解spring循环依赖](https://mp.weixin.qq.com/s/12GFCv6qqjobCrRM7JslnA) 
+
+  - [肝了两万字的springcloud，错过了血亏！](https://mp.weixin.qq.com/s/yA-4fuoHAjZyziRxMibvHg) 
+
+
+
   
   
 - Mybatis成神之路
@@ -168,6 +186,8 @@
 
   - [重复消费 顺序消费 分布式事务](https://mp.weixin.qq.com/s/1mvC5EhL-QTj56-fZhXWlQ)
 
+  - [广播消息、延迟消息、批量消息、过滤消息](https://mp.weixin.qq.com/s/XYeMHQBztuy6jmfxfebECA)
+
   - [通过这三个文件彻底搞懂RocketMQ的存储原理](https://mp.weixin.qq.com/s/hQ4-R0zM6WP8eb3wmwKS3Q)
 
   - [如何保证消息不丢失](https://mp.weixin.qq.com/s/5C898scm8zgSJCXNdRQRsQ)
@@ -183,11 +203,19 @@
    - [Dubbo起飞](https://mp.weixin.qq.com/s/vdvSwdtpUB-l3rKx39YjHQ)
    
    - [Dubbo服务暴露](https://mp.weixin.qq.com/s/YHFp58F1gbrWvZ91iX_WcA)
+
+   - [Dubbo服务发现、引用过程](https://mp.weixin.qq.com/s/Cqh-sxjDvdGt6r2XE6vjoQ)
+
+   - [和女朋友聊天：什么是Dubbo服务调用](https://mp.weixin.qq.com/s/E_HIvMb7x7fM0SH7aCgN2w)
+
+   - [Dubbo的SPI机制是啥啊？](https://mp.weixin.qq.com/s/A5Ee49lWCVcGNs-_dDBFmQ)
+
+
   
   
 - Docker容器成神之路
 
-   - [Docker入门](-)
+   - [Docker入门](https://mp.weixin.qq.com/s/Q2UfXQk846ku91R1Bjh6dA)
   
   
   
@@ -208,6 +236,10 @@
   - [分析new对象的过程](https://mp.weixin.qq.com/s/nrb-g359DSgAPne8sxFPsQ)
   
   - [面试官问我：你确定JVM堆内存是共享的？](https://mp.weixin.qq.com/s/zbZrEbkPLtKuha5zq3tRcQ)
+
+  - [面试官最常问的垃圾回收器CMS](https://mp.weixin.qq.com/s/8gBKTard7aOBiXzMwAea4A)
+
+  - [这一篇文章搞清楚8种JVM内存溢出（OOM）的原因和解决方法](https://mp.weixin.qq.com/s/WgO-j7oOML5bF2jqpmZPqw)
   
   
 - 设计模式成神之路
@@ -216,13 +248,24 @@
   
   - [单例模式](-)
   
-  
-    
-- 面试
 
-  - [你读完这一篇还不会学Java过来打我！](https://mp.weixin.qq.com/s/QDxzkx81hzqxaT9YKiukDQ)
   
  
+- shell脚本
+
+  - [女朋友要和我学习shell](https://mp.weixin.qq.com/s/FvRUkInHuCZZgCKb3Oi-VA)
+  
+   
+- Python
+
+  - []()
+
+
+- LeetCode
+
+  - [LeetCode：不用运算符号，计算两个数之和](https://mp.weixin.qq.com/s/yuVLkABfY7ugZHku9rd0IA)
+  
+  
  
 - 番外篇
 

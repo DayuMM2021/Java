@@ -72,7 +72,9 @@
 
   - [必学十大经典排序算法，看这篇就够了(附完整代码/动图/优质文章)](https://mp.weixin.qq.com/s/A7VFcMcp9VgtzkUyZMn_ug)
  
- 
+  - [面试必问：动态规划](https://mp.weixin.qq.com/s/u9xUw8ChRnWegOnZOuPFUw)
+
+
   
 - Java多线程成神之路
 
@@ -92,13 +94,32 @@
   
   - [八仙过海，四种同步（感谢你，苏小落）](https://mp.weixin.qq.com/s/eEEGesn-VKeSLtEKR-1IOA)
   
-  
+  - [线上系统因为一个ThreadLocal直接内存飙升](https://mp.weixin.qq.com/s/uSqKMEp3SI83gBDU-Im24w)
+
+  - [学Java的竟然有人不会AQS机制](https://mp.weixin.qq.com/s/1wySg8TNle-BcXdZ0IDJ1Q)
+
+  - [从ReentrantLock的角度思考AQS](https://mp.weixin.qq.com/s/O3zw_Pjdrzdkh4xlNlJlew)
+
+  - [学会了CopyOnWriteArrayList可以再多和面试官对线三分钟](https://mp.weixin.qq.com/s/geatV_Jw4o3svdTZn30_1g)
+
+  - [深入线程池的问题连环炮](https://mp.weixin.qq.com/s/ZIow5tYjS-FduQu3uaRjeQ)
+
   
 - MySQL数据库成神之路
 
   - [我以为我对MySql很了解，直到我面试了字节跳动](https://mp.weixin.qq.com/s/oBddiqEgR2swwV8ODWdAzQ)
 
   - [表姐告诉我学习数据库这一篇就差不离了](https://mp.weixin.qq.com/s/1kXnYEKiRlm-Z4NrZq_Prw)
+
+  - [表妹问我innodb的引擎是怎么设计的](https://mp.weixin.qq.com/s/U5Ss4fCUwEEhkKwDSSAnIQ)
+
+  - [表妹去面试被问到索引，结果梅开二度](https://mp.weixin.qq.com/s/XJkzPqc2BIQUx4u1FmM_Vw)
+
+  - [你真的了解mysql中的锁吗](https://mp.weixin.qq.com/s/tkgu6V4mQD09nO8NK_AfQA)
+
+  - [不会like优化欠下的一顿海底捞](https://mp.weixin.qq.com/s/5P1bT0OQBlvhW_wschBA-g)
+
+  - [面试官问我MVCC，我笑了](https://mp.weixin.qq.com/s/sM6zYQ4rgJAThSJx_tSVKQ)
 
 
   
@@ -120,13 +141,14 @@
 
   - [肝了两万字的springcloud，错过了血亏！](https://mp.weixin.qq.com/s/yA-4fuoHAjZyziRxMibvHg) 
 
+  - [面试官问我spring bean，我一口气...](https://mp.weixin.qq.com/s/qPXmUDhQxvOGPt0Kp7MVNg) 
 
 
   
   
 - Mybatis成神之路
 
-  - [Mybatis入门](-)
+  - [亲，收下这款Mybatis面试手册吧](https://mp.weixin.qq.com/s/6BovSj8KenO74ERAcorbyA)
   
 
   
@@ -300,7 +322,7 @@
   
 - Hadoop大数据处理框架成神之路
 
-  - [入门Hadoop](-)
+  - [这一篇和大家聊聊Hadoop](https://mp.weixin.qq.com/s/VB3cXEYuYKBRRS1Ye757Sg)
   
   - [HDFS](-)
   
